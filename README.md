@@ -7,7 +7,8 @@ The operator takes photos with a DSLR using the camera's remote (IR or wired), a
 ## Requirements
 
 * A DSLR supported by [gPhoto2](http://www.gphoto.org/proj/gphoto2/)
-* nginx with the push-stream module for realtime viewing of new photos
+* Nginx with the push-stream module for realtime viewing of new photos
+* Redis (to cache access tokens)
 
 ## Instructions
 

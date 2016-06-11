@@ -1,0 +1,6 @@
+composer.lock
+web/final/*.jpg
+web/original/*.jpg
+web/uploaded/*.jpg
+.DS_Store
+vendor/*

@@ -1,0 +1,19 @@
+{
+  "name": "aaronpk/photo-booth",
+  "authors": [
+    {
+      "name": "Aaron Parecki",
+      "email": "aaron@parecki.com"
+    }
+  ],
+  "require": {
+    "predis/predis": "~1.0"    
+  },
+  "autoload": {
+    "files": [
+      "lib/include.php",
+      "lib/facebook-client.php",
+      "lib/config.php"
+    ]
+  }
+}

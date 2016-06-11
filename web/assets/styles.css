@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+body.prince {
+  background-color: #4B308D;
+}
+
+body.bowie {
+  background-color: #FF4500;
+}
+
+#photo {
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
